@@ -45,7 +45,7 @@ apt-get install git -y
 clear
 echo -e '\e[96m checking for updates |>> please wait  '
 sleep 5
-cd $HOME/ && rm -rf ddos-attack/ && git clone https://github.com/armyR7/R7attack.git && cd ddos-attack
+cd $HOME/ && rm -rf ddos-attack/ && git clone https://github.com/armyR7/R7attack.git && cd R7attack
 cd R7attack
 chmod +x *
 
