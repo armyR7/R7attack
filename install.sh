@@ -59,4 +59,4 @@ echo -e $'\e[1;32m\e[0m\e[1;32m 8=======>2   \e[0m'
 sleep 3
 echo -e $'\e[1;32m\e[0m\e[1;32m 8==========>1   \e[0m'
 sleep 1
-python2 R7attack.py
+python2 ddos.py
